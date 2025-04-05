@@ -4,3 +4,4 @@ faiss-cpu
 streamlit
 pandas
 langchain-community
+sentence-transformers
